@@ -5,11 +5,14 @@ This project involved the installation, configuration, and management of an ente
 
 
 ## Key Features
-- **Windows Server 2022** installation and configuration.
-- **Active Directory** for user management and security.
-- **Group Policies** for configuring network security.
-- **Static IP address** setup for better network management.
-- **IIS setup** for hosting internal web services.
+Windows Server 2022 installation.
+Active Directory (AD DS) setup for user and group management.
+Group Policies for centralized network security and permissions management.
+Folder permissions to ensure the appropriate access control for shared resources.
+Static IP setup to improve network management and device communication.
+IIS installation for setting up internal web services.
+AD Certificate Services for securing communications and services within the network.
+
 
 ## Technologies Used
 - Windows Server 2022
@@ -18,6 +21,5 @@ This project involved the installation, configuration, and management of an ente
 - Group Policy
 - IIS
 
-## Purpose
-This project helped me develop my skills in system administration, network configuration, and securing IT environments, simulating an enterprise-level setup.
-
+##Project Purpose
+This personal project was designed to simulate the typical responsibilities of a system administrator in a small enterprise setting. It aimed to deepen my understanding of Windows Server management, user and group policy administration, and secure network configurations.
