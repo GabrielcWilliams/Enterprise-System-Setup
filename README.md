@@ -1,7 +1,8 @@
 # Personal Enterprise System Setup
 
 ## Overview
-A personal project where I designed and configured an enterprise system using Windows Server 2022, focusing on key areas such as Active Directory, Group Policy, and network security.
+This project involved the installation, configuration, and management of an enterprise IT system for a small business, simulating real-world requirements for IT infrastructure. The primary focus was on setting up a secure environment using Windows Server 2022, Active Directory, and Group Policies.
+
 
 ## Key Features
 - **Windows Server 2022** installation and configuration.
