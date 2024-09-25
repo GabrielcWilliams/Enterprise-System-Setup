@@ -1,4 +1,4 @@
-# Personal Enterprise System Setup
+# Personal Active Directory / Enterprise System Setup
 
 ## Overview
 This project involved the installation, configuration, and management of an enterprise IT system for a small business, simulating real-world requirements for IT infrastructure. The primary focus was on setting up a secure environment using Windows Server 2022, Active Directory, and Group Policies. The aim was to simulate the role of a system administrator and ensure all aspects of network and user management were properly configured and secure.
